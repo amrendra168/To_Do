@@ -1,0 +1,5 @@
+{
+  "name": "SmartTask Pro",
+  "description": "A sophisticated, productivity-focused To-Do application featuring smart keyword-based priority suggestions, automated tagging, and persistent local storage logic.",
+  "requestFramePermissions": []
+}
